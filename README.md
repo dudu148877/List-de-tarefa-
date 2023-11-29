@@ -36,7 +36,7 @@ Eduardo de Souza dos Santos
 1. Fazer a cópia do projeto para sua máquina
 
 ```bash
-git clone https://github.com/mauricioccardoso/to-do-list-Teste-laravel-vue.git
+ https://github.com/dudu148877/List-de-tarefa-.git
 ```
 
 1.1. Caso tenha o Docker e Docker compose configurado na sua máquina, siga para [Docker e Docker Compose](#configuração-com-docker-e-docker-compose).
@@ -160,3 +160,6 @@ Frontend
 
 Backend
 [http://localhost:8081/](http://localhost:8081/)
+
+
+
