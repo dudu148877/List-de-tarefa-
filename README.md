@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://inbraep.com.br/wp-content/uploads/2017/10/cropped-favicon-192x192.png" alt="Logo Inbraep" width='100px'>
-</p>
+
 
 # INBRAEP - To-do List - Teste
 
